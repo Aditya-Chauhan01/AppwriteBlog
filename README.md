@@ -1,0 +1,2 @@
+ * Environment variables root directory ke ander he bnenge
+ * in production grade app we use array of nev itmes objects for easy way to handle nav bar instead of makeing particular button for every nav items
